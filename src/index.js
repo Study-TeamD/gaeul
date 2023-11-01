@@ -7,12 +7,21 @@ import reportWebVitals from "./reportWebVitals";
 // import Library from "./chapter_03/Library";
 // import Clock from "./chapter_04/Clock";
 // import CommentList from "./chapter_05/Comment_list";
-import NotificationList from "./chapter_06/Notification_list";
+// import NotificationList from "./chapter_06/Notification_list";
+// import Accommodate from "./chapter_07/Accommodate";
+// import ConfirmButton from "./chapter_08/confirmbutton";
+// import LandingPage from "./chapter_09/LandingPage";
+// import AttendanceBook from "./chapter_10/Attendancebook";
+// import SignUp from "./chapter_11/Singup";
+// import Calculator from "./chapter_12/Calculator";
+// import ProfileCard from "./chapter_13/ProfileCard";
+// import DarkOrLight from "./chapter_14/DarkOrLight";
+import Blocks from "./chapter_15/Blocks";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <NotificationList />
+    <Blocks />
   </React.StrictMode>
 );
 
